@@ -1,0 +1,11 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# Veri setleri (Eğer çok büyükse GitHub kabul etmez)
+*.csv
+*.xlsx
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
